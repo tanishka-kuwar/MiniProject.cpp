@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(13, 27, 31);
+}
+
+#box{
+    border: 2px solid rgb(8, 86, 175);
+    background-color: aliceblue;
+}
+#counterlabel {
+     display: block;
+     text-align: center;
+     font-size: 10em;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: rgb(46, 46, 24);
+}
+#buttons {
+    text-align: center;
+    padding: 10px;
+}
+.bt{
+    padding: 10px;
+    margin: 1px;
+    font-size: 150%;
+    border-radius: 5px;
+    color: rgb(253, 253, 255);
+    background-color: rgb(7, 86, 255);
+    border: 2px;
+    cursor:pointer;
+    transition:background-color 0.8s;
+}
+
+.bt:hover{
+    background-color: rgb(125, 183, 233);
+}
