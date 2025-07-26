@@ -1,4 +1,4 @@
-# MiniProject.cpp
+# MiniProject
 # Counter App
 
 A simple counter web app using HTML, CSS, and JavaScript. It allows users to increase, decrease, or reset a number on the screen.
